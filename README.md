@@ -1,4 +1,4 @@
-# Privacy Policy
+## Privacy Policy
 
 Grabster Studios built the Reev Icon Pack app as a Free app. This SERVICE is provided by Grabster Studios at no cost and is intended for use as is.
 
